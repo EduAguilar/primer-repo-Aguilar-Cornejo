@@ -20,3 +20,16 @@
 09) Albert Einstein (1879-1955)
 
 10) Stephen Hawking (1942-2018)
+Lenguajes de programación más usados del 2021
+
+    JavaScript
+    Python
+    Java
+    TypeScript
+    C#
+    PHP
+    C++
+    C    
+    Shell
+    Ruby
+
